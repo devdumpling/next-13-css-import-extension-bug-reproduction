@@ -1,0 +1,19 @@
+{
+  "name": "ui",
+  "version": "0.0.1",
+  "exports": {
+    "./styles": {
+      "import": "./dist/style.css",
+      "require": "./dist/style.css"
+    },
+    "./styles.css": {
+      "import": "./dist/style.css",
+      "require": "./dist/style.css"
+    }
+  },
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT"
+}
