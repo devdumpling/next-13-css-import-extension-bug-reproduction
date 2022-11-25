@@ -6,7 +6,7 @@
       "import": "./dist/style.css",
       "require": "./dist/style.css"
     },
-    "./styles.css:": {
+    "./styles.css": {
       "import": "./dist/style.css",
       "require": "./dist/style.css"
     }
