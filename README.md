@@ -1,5 +1,7 @@
 # CSS Import Extension Bug Reproduction
 
+Issue link: https://github.com/vercel/next.js/issues/43397
+
 I've kept this as minimal as possible to reproduce.
 
 ## Reproduction Steps
